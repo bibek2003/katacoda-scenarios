@@ -1,8 +1,8 @@
 {
   "title": "Linux Fundamental Tutorial",
-  "description": "Linux Fundamental for Non Linux or New to Linux Users",
+  "description": "Linux Fundamental for Non Linux or New to Linux users",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "2 hours",
   "details": {
     "steps": [
       {
@@ -84,6 +84,46 @@
       {
         "title": "Step 20",
         "text": "step20.md"
+      },
+      {
+        "title": "Step 21",
+        "text": "step21.md"
+      },
+      {
+        "title": "Step 22",
+        "text": "step22.md"
+      },
+      {
+        "title": "Step 23",
+        "text": "step23.md"
+      },
+      {
+        "title": "Step 24",
+        "text": "step24.md"
+      },
+      {
+        "title": "Step 25",
+        "text": "step25.md"
+      },
+      {
+        "title": "Step 26",
+        "text": "step26.md"
+      },
+      {
+        "title": "Step 27",
+        "text": "step27.md"
+      },
+      {
+        "title": "Step 28",
+        "text": "step28.md"
+      },
+      {
+        "title": "Step 29",
+        "text": "step29.md"
+      },
+      {
+        "title": "Step 30",
+        "text": "step30.md"
       }
     ],
     "intro": {
